@@ -17,3 +17,10 @@ img{
     margin:50px;
     font-size: 18px;
 }
+body {
+    heigh:665px;
+    background-image: url("https://carontestudio.com/img/caronte-web-estudio-logo.png");
+    background-size: 10rem;
+    
+  }
+  
