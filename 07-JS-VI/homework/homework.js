@@ -63,7 +63,7 @@ function filter(array) {
     
   })
 
-  return arrayfiltrado
+return arrayfiltrado
 
   
 }
